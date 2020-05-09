@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# Assignment 5, Part 1
-# sgkolli@usc.edu
 # This is part 1 of assignment 5, where the user will be able to play a world jumble game.
 import random
 # This is a list of 10 words to be randomly assigned and jumbled.
