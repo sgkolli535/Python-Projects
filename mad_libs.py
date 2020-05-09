@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# Assignment 1
-# sgkolli@usc.edu
 # This is a program to create a Mad Libs story
 # This mad libs story is called "A Day at the Beach"
 
