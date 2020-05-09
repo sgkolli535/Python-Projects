@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# sgkolli@usc.edu
-# Final Project
 # Waiter Class
 
 # import statements to use Diner and Menu objects
