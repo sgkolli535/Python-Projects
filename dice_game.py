@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# Assignment 4, Part 2
-# sgkolli@usc.edu
 # This is part 2 of the assignment. This program will simulate a game of rolling a D20 die.
 import random
 print("PART 2 - D20 Dice Game\n")
