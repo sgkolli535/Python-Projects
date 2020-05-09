@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# sgkolli@usc.edu
-# Final Project
 # MenuItem Class
 
 # one of the two classes that will represent the menu.
