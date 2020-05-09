@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Part 2
-# Assignment 5, Part 2
-# sgkolli@usc.edu
 # This is part 2 of assignment 5, where the user's input is encrypted using the Caesar cipher method.
 # the input of the user is stored in message.
 message = input("Enter a message: ")
