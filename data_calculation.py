@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# Assignment 3
-# sgkolli@usc.edu
 # This is a program that will print out the minimum, maximum, and average of a set of numbers entered by the user.
 # The user is told to enter a positive number, or -1 to stop the program.
 num = int(input("Input an integer greater than or equal to 0, or enter -1 to quit:\n> "))
