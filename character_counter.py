@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# Assignment 4, Part 1
-# sgkolli@usc.edu
 # This is part 1 of the assignment. This program will count the number of characters evident in the user's input.
 print("PART 1 - Character Counter")
 # sentence is the variable that represents the user's input that will have its characters counted.
