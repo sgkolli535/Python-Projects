@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# Assignment 8
-# sgkolli@usc.edu
 # this is a program that creates a two-player Tic Tac Toe game.
 # the given program with two functions is imported to be used within this program.
 import TicTacToeHelper
