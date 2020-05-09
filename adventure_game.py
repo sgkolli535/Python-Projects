@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# Assignment 2, Part 2
-# sgkolli@usc.edu
 # 9/15/2019
 # Description:
 # This is a program that simulates a "Choose your Own Adventure" game.
