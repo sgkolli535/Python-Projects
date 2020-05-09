@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# sgkolli@usc.edu
-# Final Project
 # Menu Class
 
 # because this class will use MenuItem objects, the MenuItem class from the MenuItem file is imported
