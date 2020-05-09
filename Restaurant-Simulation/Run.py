@@ -1,7 +1,4 @@
-"""
-ITP 115, SP17 Final project
-Run this file in order to start the restaurant simulation program
-"""
+
 import datetime
 import time
 
