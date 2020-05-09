@@ -1,8 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# sgkolli@usc.edu
-# Final Project
-# Extra Credit GUI
 
 from tkinter import *
 
