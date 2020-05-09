@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP, Fall 2019
-# Assignment 7
-# sgkolli@usc.edu
 # This program allows the user to play a game of "rock, paper, scissors" with the computer.
 # the random module is imported to be used in a function later on.
 import random
