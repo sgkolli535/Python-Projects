@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# Assignment 6
-# sgkolli@usc.edu
 # this program will represent an automated reservation system for an airline company.
 # It is a menu where the user can choose the option they want to complete.
 # there are a total of 10 available seats in the plane.
