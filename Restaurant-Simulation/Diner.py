@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# sgkolli@usc.edu
-# Final Project
 # Diner Class
 
 # import statement to use MenuItem objects
