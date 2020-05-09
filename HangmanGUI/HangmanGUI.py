@@ -1,5 +1,4 @@
 # Sumedha Kolli
-# Lecture 26
 # Hangman Graphical User Interface (GUI)
 
 from tkinter import *
