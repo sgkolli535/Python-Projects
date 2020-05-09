@@ -1,7 +1,4 @@
 # Sumedha Kolli
-# ITP 115, Fall 2019
-# Assignment 9
-# sgkolli@usc.edu
 # this is a program that allows the user to store results from an EPA Mileage Calculator.
 
 # this function will open, read the file, add all the mileages to a list, and close the file.
